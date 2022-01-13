@@ -23,11 +23,11 @@ private void inisialisasiView() {
         btnIndonesian_Food = findViewById(R.id.btn_buka_ras_Mocktail);
         btnWestren_food = findViewById(R.id.btn_buka_Wetren_food);
         btnTimurTengah = findViewById(R.id.btn_buka_Timur_Tengah);
-        btnCoktail.setOnClickListener(view -> bukaGaleri("Coktail"));
-        btnIndonesian_Food.setOnClickListener(view -> bukaGaleri("Indonesian Food"));
-        btnMocktail.setOnClickListener(view -> bukaGaleri("Mocktail"));
-        btnWestren_food.setOnClickListener(View -> bukaGaleri("Westren Food"));
-        btnTimurTengah.setOnClickListener(View -> bukaGaleri("Timur Tengah Food"));
+        btnCoktail.setOnClickListener(view -> bukaGaleri(getString(R.string.judulCoktail)));
+        btnIndonesian_Food.setOnClickListener(view -> bukaGaleri(getString(R.string.judul_Indonesian_ood)));
+        btnMocktail.setOnClickListener(view -> bukaGaleri(getString(R.string.judul_Mocktail)));
+        btnWestren_food.setOnClickListener(View -> bukaGaleri(getString(R.string.MAsakan_weatrean)));
+        btnTimurTengah.setOnClickListener(View -> bukaGaleri(getString(R.string.judul_TimurTengahFood)));
         }
 
 private void bukaGaleri(String jenisMasakan) {
