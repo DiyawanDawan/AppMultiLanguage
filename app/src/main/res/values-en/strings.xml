@@ -139,4 +139,9 @@
     <string name="nm_Spanish_chickpea_and_spinach_stew">Spanish chickpea and spinach stew</string>
     <string name="bh_Spanish_chickpea_and_spinach_stew">Ingredients:\n - 2 tablespoons or 30 ml of olive oil\n - 3 cloves of garlic, finely chopped\\n - 3 cloves of red onion, finely chopped\n - 1/2 medium size onion\n - Cumin powder to taste\n - 1.5 teaspoons paprika powder\n - 1/2 Chili powder\n - 1/2 teaspoon salt\n - 2-3 teaspoons brown sugar\n - Black pepper to taste\n - 2 x 400 grams of canned tomatoes (or you can make your own tomato paste)\n - 1.5 Cups of boiled chickpeas\n - 200 grams of spinach\n - Almonds to taste\n - Brown rice (can be replaced with white rice to taste)</string>
     <string name="cm_Spanish_chickpea_and_spinach_stew">How to cook:\n - Heat the oil in a non-heating pan, then sauté the onions until fragrant. Add the garlic and continue to saute until brown\n - Add the cumin powder, paprika powder, chili powder and salt. Sauté until smooth\n - Pour in the canned tomatoes and cook on low heat until thickened\n - Sprinkle with ground black pepper, stir briefly, then add the chickpeas\n - Put the spinach leaves in the saucepan, then cover the pan for 3 minutes. Stir briefly then turn off the heat\n - Serve with rice</string>
+    <string name="judulCoktail">Koktail</string>
+    <string name="judul_Indonesian_ood">Indonesian food</string>
+    <string name="judul_Mocktail">Mocktails</string>
+    <string name="MAsakan_weatrean">western food</string>
+    <string name="judul_TimurTengahFood">Timur Tengah Food</string>
 </resources>
