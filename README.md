@@ -1,6 +1,17 @@
 # AppMultiLanguage
 App Multi Language
+ 
+ Asalamualikum
+ Saya Atas Nama Diyawan, Dari TI_A / Semster 3
+ Sebelumnya saya minta maaf kerena saya salah cara update projek
+ dan laptop saya di pinjam buat ngirim  tugas teman, dan saya meng update projek punya saya namun lupa git config --global user.name "xxxx", dan git config --global user.email "xxxx@gmail.com", Sehingga Hasilnya Seperti Di  Bawah ini pak
+ Dan saya coba Resed head ke sebelumnya namun filed
+ ![ma](https://user-images.githubusercontent.com/95010003/149465751-056354a8-2f75-4113-a310-ad577f543c1a.PNG)
+![masalah](https://user-images.githubusercontent.com/95010003/149465802-aa9c0fa8-f884-48e0-a232-25d630d4ef54.PNG)
+
+# Ini Bukti Kalok saya yang buat Repositori, namun berubah ketika update dan lupa config di git bush Here
 ![detailApp (1)](https://user-images.githubusercontent.com/95010003/149442380-9843dfa6-eaf8-41cc-aceb-7b5a7de9209d.gif)
 
 Untuk Detail
 ![deatilappp](https://user-images.githubusercontent.com/95010003/149442390-a6927f87-b1d3-460d-b04f-3171c179fc74.gif)
+
