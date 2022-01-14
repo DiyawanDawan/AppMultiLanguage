@@ -141,6 +141,10 @@
     <string name="nm_Spanish_chickpea_and_spinach_stew">Spanish chickpea and spinach stew</string>
     <string name="bh_Spanish_chickpea_and_spinach_stew">Bahan-bahan:\n - 2 Sendok makan atau 30 ml minyak zaitun\n - 3 Siung bawang putih, cincang halus\n - 3 Siung bawang merah, cincang halus\n - 1/2 Buah bawang bombay ukuran sedang\n - Jinten bubuk secukupnya\n - 1,5 Sendok teh paprika bubuk\n - 1/2 Cabai bubuk\n - 1/2 Sendok teh garam\n - 2-3 Sendok teh gula merah\n - Lada hitam secukupnya\n - 2 x 400 gram tomat kaleng (atau bisa membuat pasta tomat sendiri)\n - 1,5 Cup kacang chickpea yang sudah direbus\n - 200 gram bayam\n - Kacang almond secukupnya\n - Nasi merah (bisa diganti nasi putih secukupnya)</string>
     <string name="cm_Spanish_chickpea_and_spinach_stew">Cara memasak:\n - Panaskan minyak di atas panci antipanas, lalu tumis bawang bombay hingga harum. Masukkan bawang putih dan lanjut tumis hingga kecokelatan\n - Tambahkan bubuk jinten, bubuk paprika, bubuk cabai, dan garam. Tumis hingga rata\n - Tuang tomat kaleng lalu masak dengan api kecil sampai mengental\n - Taburkan bubuk lada hitam, aduk sebentar, lalu masukkan kacang chickpea\n - Masukkan daun bayam ke dalam panci, lalu tutup panci selama 3 menit. Aduk sebentar lalu matikan api\n - Sajikan dengan nasi</string>
-   
+    <string name="judulCoktail">Koktail</string>
+    <string name="judul_Indonesian_ood">Masakan Indonesia</string>
+    <string name="judul_Mocktail">Mocktail</string>
+    <string name="MAsakan_weatrean">Makanan barat</string>
+    <string name="judul_TimurTengahFood">Makanan Timur Tengah</string>
 
 </resources>
