@@ -28,16 +28,16 @@ private void inisialisasiView() {
         btnMocktail.setOnClickListener(view -> bukaGaleri("Mocktail"));
         btnWestren_food.setOnClickListener(View -> bukaGaleri("Westren Food"));
         btnTimurTengah.setOnClickListener(View -> bukaGaleri("Timur Tengah Food"));
-        }
+    }
 
 private void bukaGaleri(String jenisMasakan) {
         Log.d("MAIN","Buka activity Coktail");
         Intent intent = new Intent(this, DaftarMasakanActivity.class);
         intent.putExtra(JENIS_GALERI_KEY, jenisMasakan);
         startActivity(intent);
-        }
+     }
 public void Pindah(View  v){
         Intent intent = new Intent(this, Profile.class);
         startActivity(intent);
-        }
-        }
+    }
+}
